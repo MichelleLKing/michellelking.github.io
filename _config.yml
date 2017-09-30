@@ -8,7 +8,7 @@ owner: Michelle King
 first_published: 2017 # if migrating another site, the year of your first publish
 email: michellelking@me.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://evarda.github.io" # the base hostname & protocol for your site
+url: "http://michellelking.github.io" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/Evarda
   github: https://github.com/Evarda
