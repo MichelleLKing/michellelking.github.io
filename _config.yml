@@ -1,0 +1,56 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Michelle King
+description:
+owner: Michelle King
+first_published: 2017 # if migrating another site, the year of your first publish
+email: michellelking@me.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://evarda.github.io" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/Evarda
+  github: https://github.com/Evarda
+  linkedin-square: https://linkedin.com/in/kingmichellel
+  facebook-official: https://facebook.com/kingmichellel
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: michellelking@me.com
+  #flickr:
+  #instagram: Evarda
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
