@@ -1507,6 +1507,12 @@ input[type="radio"] + label:before {
     width: 100%; }
     .image.fit img {
       width: 100%; }
+  .image.fitleft {
+    float: left;
+    margin: 0 2em 2em 0;
+    width: 25%; }
+    .image.fitleft img {
+      width: 100%; }
 
 /* List */
 ol {

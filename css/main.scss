@@ -545,6 +545,18 @@ $baseurl: '{{ site.baseurl }}/images';
 			img {
 				width: 100%;
 			}
+
+		}
+
+		&.fitleft {
+			float: left;
+			margin: 0 2em 2em 0;
+			width: 25%;
+
+			img {
+				width: 100%;
+			}
+
 		}
 	}
 
